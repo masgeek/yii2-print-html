@@ -1,5 +1,5 @@
 {
-    "name": "yii2assets/yii2-printthis",
+    "name": "yii2assets/yii2-print-html",
     "description": "Print html by selector for Yii Framework 2.0",
     "keywords": ["yii", "yii2", "extension", "print", "html", "PrintThis"],
     "homepage": "https://github.com/Yii2Assets/yii2-print-this",
