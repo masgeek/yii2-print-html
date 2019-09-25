@@ -10,7 +10,12 @@
             "name": "Manop Kongoon",
             "email": "kongoon@gmail.com",
             "homepage": "https://www.programmerthailand.com/"
-        }
+        },
+      {
+        "name": "Sammy Barasa",
+        "email": "barsamm@gmail.com",
+          "homepage": "https://www.tsobu.co.ke"
+      }
     ],
     "minimum-stability": "stable",
     "require": {
