@@ -20,7 +20,7 @@
     "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/printthis": "*"
+        "bower-asset/print-this": "*"
     },
     "autoload": {
         "psr-4": {
